@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  @font-face {
+    font-family: IRANSansLight;
+    src: url(../fonts/IRANSansLight.ttf);
+  }
+
+  @font-face {
+    font-family: Iranyek;
+    src: url(../fonts/iranyekanwebextrabold.9346e9a2.woff);
+  }
+}
